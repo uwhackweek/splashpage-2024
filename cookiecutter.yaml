@@ -33,7 +33,7 @@ team:
 schedule:
   !include schedule.yaml
 sponsors:
-  description: 'This event was made possible by the National Science Foundation (Awards #1829585, #2117834) and the eScience Institute in collaboration with CUAHSI and ESIP. Cloud computing infrastructure provided by CryoCloud.'
+  description: 'This event was made possible by the NASA ICESat-2 and SnowEx missions, the National Science Foundation (Awards #1829585, #2117834), and the eScience Institute. Cloud computing infrastructure provided by CryoCloud.'
   organizations:
   - name: eScience Institute
     website: https://escience.washington.edu/
@@ -50,12 +50,6 @@ sponsors:
   - name: National Science Foundation
     website: 'https://www.nsf.gov/'
     logo_url: https://new.nsf.gov/themes/custom/nsf_theme/components/images/logo/logo-desktop.svg
-  - name: CUAHSI
-    website: 'https://www.cuahsi.org/'
-    logo_url: https://www.cuahsi.org/uploads/pages/img/Round_Logo_No_Text_-_Transparent.png
-  - name: ESIP
-    website: 'https://www.esipfed.org/'
-    logo_url: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/esip-logo_0.png
 footer:
   social:
     - icon: github
