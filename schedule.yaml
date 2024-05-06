@@ -25,11 +25,13 @@ tabs:
   - title: 'Tutorial: SnowEx Mission Overview'
     description: All about SnowEx!
     time: 11:15 - 12:00
+    label: snowex
     leads:
     - HP Marshall
   - title: 'Tutorial: ICESat-2 Mission Overview'
     description: All about ICESat-2 and the data products
     time: 11:15 - 12:00
+    label: icesat-2
     leads:
     - Tyler Sutterley
   - title: LUNCH
@@ -59,12 +61,14 @@ tabs:
   - title: 'Tutorial: SnowEx Database'
     description: Using the SnowEx Database
     time: 9:45 - 10:30
+    label: snowex
     leads:
     - Micah Johnson
     - Micah Sandusky
   - title: 'Tutorial: accessing ICESat-2 data'
     description: icepyx, SlideRule
     time: 9:45 - 10:30
+    label: icesat-2
     leads:
     - JP Swinski
   - title: BREAK
@@ -85,12 +89,14 @@ tabs:
   - title: 'Tutorial: SWESARR'
     description: All about SWESARR
     time: 9:00 - 9:45
+    label: snowex
     leads:
     - Dylan Boyd
     - Elodie Macorps
   - title: 'Tutorial: ICESat-2 and GEDI'
     description: ''
     time: 9:00 - 9:45
+    label: icesat-2
     leads:
     - Aaron Freisz
   - title: 'Tutorial: LiDAR & GPR'
@@ -101,6 +107,7 @@ tabs:
   - title: 'Tutorial: Machine learning with ICESat-2 data'
     description: ''
     time: 9:45 - 10:30
+    label: snowex
     leads:
     - Wei Ji Leong?
     - Ellie Abrahams?
@@ -110,6 +117,7 @@ tabs:
   - title: 'Tutorial: Albedo AVIRIS-NG'
     description: All about Albedo
     time: 10:45 - 11:30
+    label: snowex
     leads:
     - Anton Surunis
     - Brent Wilder
