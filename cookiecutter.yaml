@@ -29,7 +29,7 @@ about:
     title: GeoSMART Track
     new_window: true
 team:
-  !include team.yaml
+  !include team/team.yaml
 schedule:
   !include schedule.yaml
 sponsors:
