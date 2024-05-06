@@ -21,3 +21,21 @@
     width: 100%;
     height: 100%;
 }
+
+.schedule-badge {
+    background-position: top;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 75px;
+}
+.snowex {
+    background-image: url("../images/snowex.png");
+}
+
+.icesat-2 {
+    background-image: url("../images/icesat2.png");
+}
+
+.geosmart {
+    background-image: url("../images/geosmart.png");
+}

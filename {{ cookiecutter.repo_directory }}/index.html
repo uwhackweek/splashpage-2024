@@ -279,6 +279,11 @@
                         <h4 class="time mb-3">
                             {{ content['time'] }}
                         </h4>
+                        {% if 'tag' in content %}
+                        <span class="badge schedule-badge {{ content['tag'] }}">
+                            &nbsp;
+                        </span>
+                        {% endif %}
                     </div>
 
                     <div class="content">
