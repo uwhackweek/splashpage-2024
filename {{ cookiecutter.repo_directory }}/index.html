@@ -43,7 +43,7 @@
                     </a>
                 </div>
 
-                {%- if cookiecutter.apply %}
+                {%- if 'apply' in cookiecutter %}
                 <div class="navbar-btn order-lg-2">
                     <a class="btn btn-secondary"
                        {%- if 'url' in cookiecutter.apply %}
@@ -147,19 +147,21 @@
         <div class="section-intro single-col-max mx-auto mb-3">
             {{ cookiecutter.about.description }}
         </div>
-        <div class="about-cta text-center mb-4">
-            <a class="btn btn-secondary btn-lg"
-               href="{{ cookiecutter.about.learn_more }}"
-               target="_blank">
-                Learn about "Hackweeks"
-                <i class="fas fa-external-link-alt"></i>
-            </a>
-        </div>
+        {%- if 'learn_more' in cookiecutter.about %}
+            <div class="about-cta text-center mb-4">
+                <a class="btn btn-secondary btn-lg"
+                href="{{ cookiecutter.about.learn_more }}"
+                target="_blank">
+                    Learn about "Hackweeks"
+                    <i class="fas fa-external-link-alt"></i>
+                </a>
+            </div>
+        {%- endif %}
 
         {%- if 'links' in cookiecutter.about %}
             <div class="hero-cta text-center mb-4">
                 <h4 class="mb-3 text-center">
-                    Past Events:
+                    JupyterBooks:
                 </h4>
                 {%- for link in cookiecutter.about.links %}
                     <a class="btn btn-primary btn-lg mb-3 mx-2"
@@ -189,17 +191,19 @@
         </div>
     </div>
 
-    <div class="media-block theme-bg-primary py-5">
-        <div class="container">
-            <h4 class="text-white text-center mb-3">
-                Information for Applicants
-            </h4>
-            <div
-                class="section-intro text-center single-col-max mx-auto text-white mb-3">
-                {{cookiecutter.applicant_info}}
+    {%- if 'applicant_info' in cookiecutter %}
+        <div class="media-block theme-bg-primary py-5">
+            <div class="container">
+                <h4 class="text-white text-center mb-3">
+                    Information for Applicants
+                </h4>
+                <div
+                    class="section-intro text-center single-col-max mx-auto text-white mb-3">
+                    {{cookiecutter.applicant_info}}
+                </div>
             </div>
         </div>
-    </div>
+    {%- endif %}
 </section>
 <!--//about-section-->
 

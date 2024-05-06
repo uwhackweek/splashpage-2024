@@ -1,15 +1,12 @@
 repo_directory: html
-name: UW Hackweek
-apply:
-  url: '#'
-  title: Application coming soon
+name: NASA Earth Sciences & UW Hackweek
 hackweek_mission: https://uwhackweek.github.io/hackweeks-as-a-service/mission.html
 banner:
-  description: An awesome learning event.
-  start_date: XX Month
-  end_date: XX Month
-  year: 2023
-  location: Seattle, WA
+  description: Tutorials + peer-to-peer learning + project based teamwork
+  start_date: 19 Aug
+  end_date: 23 Aug
+  year: 2024
+  location: University of Washington, Seattle, USA
 # Add a button link right under the top (e.g. JupyterBook, url can be local file or https://)
   links:
   # - url: intro.html
@@ -17,34 +14,54 @@ banner:
   #   new_window: false
   image: https://geohackweek.github.io/assets/images/banner.jpg
 # The opening session of the event with UTC offset
-event_countdown: "2024-08-07T08:30:00-07:00"
+event_countdown: "2024-08-19T09:00:00-07:00"
 about:
-  description: Hackweeks are participant-driven events that strive to create
-    welcoming spaces for participants to learn new things, build community and
-    gain hands-on experience with collaboration and team science
-  learn_more: https://escience.washington.edu/using-data-science/hackweeks
+  description: The eScience Institute at the University of Washington is excited to present the next evolution in our annual hackweek program. 2024 will be our first combined event, with projects using data from the NASA ICESat-2 and SnowEx missions, and with specialists from the NSF GeoSMART program providing training in Machine Learning
+  # learn_more: https://event.hackweek.io/
   links:
-    - url: '#'
-      title: A sample link
-      new_window: True
-applicant_info: UW Hackweek 2023 will take place in October 2023 (virtual or in-person
-  TBD). Applications have not yet opened, but should be anticipated in September 2023.
+  - url: https://snowex-2024.hackweek.io/
+    title: SnowEx Track
+    new_window: true
+  - url: https://icesat-2-2024.hackweek.io/
+    title: ICESat-2 Track
+    new_window: true
+  - url: https://geosmart-2024.hackweek.io/
+    title: GeoSMART Track
+    new_window: true
 team:
   !include team.yaml
 schedule:
   !include schedule.yaml
 sponsors:
-  description: ''
+  description: 'This event was made possible by the National Science Foundation (Awards #1829585, #2117834) and the eScience Institute in collaboration with CUAHSI and ESIP. Cloud computing infrastructure provided by CryoCloud.'
   organizations:
   - name: eScience Institute
-    website: ''
+    website: https://escience.washington.edu/
     logo_url: https://escience.washington.edu/wp-content/uploads/2015/10/Logo_eScience-stacked.png
+  - name: CryoCloud
+    website: https://book.cryointhecloud.com/intro.html
+    logo_url: https://book.cryointhecloud.com/_static/logo.png
+  - name: NASA ICESat-2 Mission
+    website: 'https://icesat-2.gsfc.nasa.gov/mission'
+    logo_url: https://github.com/ICESAT-2HackWeek/icesat-2hackweek.github.io/raw/2022.03.01/assets/images/ICESat2.png
+  - name: SnowEx
+    website: https://snow.nasa.gov/campaigns/snowex
+    logo_url: https://snowex-2022.hackweek.io/_static/logo.png
+  - name: National Science Foundation
+    website: 'https://www.nsf.gov/'
+    logo_url: https://new.nsf.gov/themes/custom/nsf_theme/components/images/logo/logo-desktop.svg
+  - name: CUAHSI
+    website: 'https://www.cuahsi.org/'
+    logo_url: https://www.cuahsi.org/uploads/pages/img/Round_Logo_No_Text_-_Transparent.png
+  - name: ESIP
+    website: 'https://www.esipfed.org/'
+    logo_url: https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/esip-logo_0.png
 footer:
   social:
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/uwhackweek/
+    - icon: github
+      icon_pack: fab
+      link: https://github.com/uwhackweek/
 _copy_without_render:
-- assets
+  - assets
 _extensions:
-- jinja_markdown.MarkdownExtension
+  - jinja_markdown.MarkdownExtension
