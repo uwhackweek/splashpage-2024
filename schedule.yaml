@@ -6,22 +6,26 @@ tabs:
   - title: 'Plenary: Welcome!'
     description: Welcome to the event
     time: 9:00 - 9:30
+    label: all
     leads:
     - Anthony Arendt
     - Mark Welden-Smith
   - title: 'Plenary: Best Practices for Collaborative Development'
     description: Effective teamwork and collaborations
     time: 9:30 - 10:15
+    label: all
     leads:
     - Naomi Alterman
   - title: 'Plenary: CryoCloud'
     description: CryoCloud Initiative for open science
     time: 10:15 - 11:00
+    label: all
     leads:
     - Tasha Snow
   - title: BREAK
     description: null
     time: 11:00 - 11:15
+    label: all
   - title: 'Tutorial: SnowEx Mission Overview'
     description: All about SnowEx!
     time: 11:15 - 12:00
@@ -37,25 +41,30 @@ tabs:
   - title: LUNCH
     description: null
     time: 12:00 - 13:00
+    label: all
   - title: 'Tutorial: Cloud computing and cloud-optimized data formats'
     description: ''
     time: 13:00 - 13:45
+    label: icesat-2
     leads:
     - Aimeee Barciauskas
   - title: 'Plenary: Project Formation and Logistics'
     description: Forming projects
     time: 14:00 - 14:45
+    label: all
     leads:
     - Charley Haley
   - title: PROJECT TIME
     description: null
     time: 15:00 - 17:00
+    label: all
 - title: Day 2
   date: Tuesday 20 August
   contents:
   - title: 'Tutorial: Data Access'
     description: Accessing NASA Data (especially SnowEx and ICESat-2)
     time: 9:00 - 9:45
+    label: all
     leads:
     - Mikala Beig
   - title: 'Tutorial: SnowEx Database'
@@ -74,15 +83,19 @@ tabs:
   - title: BREAK
     description: null
     time: 10:30 - 10:45
+    label: all
   - title: PROJECT TIME
     description: null
     time: 10:45 - 12:40
+    label: all
   - title: LUNCH
     description: null
     time: 12:00 - 13:00
+    label: all
   - title: PROJECT TIME
     description: null
     time: 13:00 - 17:00
+    label: all
 - title: Day 3
   date: Wednesday 21 August
   contents:
@@ -102,18 +115,20 @@ tabs:
   - title: 'Tutorial: LiDAR & GPR'
     description: LiDAR and GPR
     time: 9:45 - 10:30
+    label: snowex
     leads:
     - Randall Bonnell
   - title: 'Tutorial: Machine learning with ICESat-2 data'
     description: ''
     time: 9:45 - 10:30
-    label: snowex
+    label: icesat-2
     leads:
     - Wei Ji Leong?
     - Ellie Abrahams?
   - title: BREAK
     description: null
     time: 10:30 - 10:45
+    label: all
   - title: 'Tutorial: Albedo AVIRIS-NG'
     description: All about Albedo
     time: 10:45 - 11:30
@@ -124,57 +139,71 @@ tabs:
   - title: Project Updates
     description: null
     time: 11:30 - 12:00
+    label: all
   - title: LUNCH
     description: null
     time: 12:00 - 13:00
+    label: all
   - title: PROJECT TIME
     description: null
     time: 13:00 - 17:00
+    label: all
 - title: Day 4
   date: Thursday 22 August
   contents:
   - title: 'Plenary: From notebooks to packages'
     description: All about python packaging
     time: 9:00 - 9:45
+    label: all
     leads:
     - Don Setiawan and Romina Piunno
   - title: 'Optional: impromptu tutorials'
     description: Things not in the original schedule worth sharing based on interest
     time: 9:45 - 10:30
+    label: all
     leads:
     - Awesome People
   - title: BREAK
     description: null
     time: 10:30 - 10:45
+    label: all
   - title: Project Updates
     description: null
     time: 10:45 - 11:45
+    label: all
   - title: LUNCH
     description: null
     time: 12:00 - 13:00
+    label: all
   - title: PROJECT TIME
     description: null
     time: 13:00 - 17:00
+    label: all
 - title: Day 5
   date: Friday 23 August
   contents:
   - title: 'Plenary: Open Science Discussion'
     description: Open science best practices
     time: 9:00 - 9:45
+    label: all
     leads:
     - Andy Barrett?
   - title: Project Wrap-up
     description: null
     time: 10:00 - 12:00
+    label: all
   - title: LUNCH
     description: null
     time: 12:00 - 13:00
+    label: all
   - title: Project Wrap-up
     description: null
     time: 13:00 - 14:00
+    label: all
   - title: 'Plenary: Closing remarks'
     description: Event closing ceremony
     time: 14:00 - 15:00
+    label: all
     leads:
     - Anthony Arendt
     - Mark Welden-Smith
