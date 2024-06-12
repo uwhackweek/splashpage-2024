@@ -3,9 +3,6 @@ name: NetlifyPreview
 on:
   pull_request_target:
     types: [labeled, synchronize]
-    paths:
-      - 'docs/**'
-      - 'environment.yml'
     branches:
       - main
 
