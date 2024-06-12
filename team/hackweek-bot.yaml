@@ -1,0 +1,16 @@
+- title: Hackweek Bot
+  avatar: https://avatars.githubusercontent.com/hackweek-admin
+  role: Software Assistant
+  organizations:
+    - name: University of Washington
+  bio: >
+    Keep this section indented. It can continue onto multiple lines.
+    I am a bot created by the University of Washington to help out with hackweeks.
+  expertise:
+    - GitHub
+    - Python
+  social:
+    - icon: github
+      link: https://github.com/hackweek-admin
+  user_groups:
+    - Hackweek helper
