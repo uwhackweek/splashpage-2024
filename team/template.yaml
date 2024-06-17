@@ -10,6 +10,7 @@
     - SKILL 1
     - SKILL 2
   social:
+    # Remove list item (- icon & link) if you don't have an account
     - icon: github
       link: https://github.com/GITHUB_USERNAME
     - icon: twitter
