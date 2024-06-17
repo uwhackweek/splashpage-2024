@@ -1,10 +1,11 @@
 - title: Scott Henderson
-  avatar: https://avatars2.githubusercontent.com/u/3924836?s=460&v=4
+  avatar: https://avatars.githubusercontent.com/scottyhq
   role: Research Scientist
   organizations:
     - name: eScience Institute
     - name: UW Earth and Space Sciences Department
-  bio: Scott is a research scientist and data science fellow at the University of Washington.
+  bio: > 
+    Scott is a senior research scientist and data science fellow at the University of Washington.
     His research is focused on applications of synthetic aperture radar to understand geophysical processes.
     Scott is excited about the potential for open source software and Cloud computing to enable more open and reproducible science.
   expertise:
@@ -16,5 +17,5 @@
     - icon: github
       link: https://github.com/scottyhq
   user_groups:
-    - Lead of Technology
-    - Tutorial Lead
+    - Technology Consultant
+    - Tutorial Developer
