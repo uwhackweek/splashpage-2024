@@ -14,6 +14,5 @@
       link: https://github.com/ZihengSun
   user_groups:
     # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
-    - Lead Hackweek Organizer
     - Tutorial Lead
     - Project Team Lead
