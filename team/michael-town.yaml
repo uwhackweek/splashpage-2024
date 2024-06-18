@@ -4,8 +4,8 @@
   role: Research Scientist
   organizations:
     - name: Earth and Space Research
-  bio:
-    - I am an innovative research scientist, educator, and instructional coach with professional experience in machine learning and data analysis, computational modeling, remote field work, and secondary and university-level curriculum development. Equity and social justice are at the center of both my research and education efforts.
+  bio: >
+    I am an innovative research scientist, educator, and instructional coach with professional experience in machine learning and data analysis, computational modeling, remote field work, and secondary and university-level curriculum development. Equity and social justice are at the center of both my research and education efforts.
   expertise:
     - Polar Meteorology
     - Education
