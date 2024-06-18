@@ -1,0 +1,28 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Micah Sandusky
+  avatar: https://avatars.githubusercontent.com/u/32111103?v=4
+  role: CoFounder & CEO
+  organizations:
+    - name: M3 Works
+  bio: >
+    Micah is a cofounder at M3 Works and has a professional focus on
+    scientific modeling and software consulting. He has a background in
+    mechanical engineering and software development, including developing
+    cloud applications and contributing to opensource software.
+  expertise:
+    - Software Development
+    - Snowpack Modeling
+    - Cloud Computing
+    - Python
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/micah-prime
+    - icon: twitter
+      link: https://x.com/sanduskymicah
+    - icon: linkedin
+      link: https://www.linkedin.com/in/micahsandusky
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Training and Education
+
