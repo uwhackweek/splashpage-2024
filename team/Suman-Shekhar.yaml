@@ -1,0 +1,26 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Suman Shekhar
+  avatar: https://avatars.githubusercontent.com/Sumanshekhar17
+  role: Graduate Research Assistant
+  organizations:
+    - name: Rutgers University
+  bio: >
+    I am Graduate student in Ocean Modeling lab at Rutgers University, New Jersey. I study about physics of ocean warming in Mid Atlantic bight and data driven approaches in ocean modeling.
+  expertise:
+    - Physical Oceanography
+    - Python
+    - Fortran
+    - Git
+    - Machine Learning
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/Sumanshekhar17
+    - icon: twitter
+      link: https://x.com/TWITTER_USERNAME
+    - icon: linkedin
+      link: https://www.linkedin.com/in/suman-shekhar-21290816a/
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Project Lead
+    

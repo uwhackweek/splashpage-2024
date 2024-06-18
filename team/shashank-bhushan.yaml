@@ -1,0 +1,31 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Shashank Bhushan
+  avatar: https://avatars.githubusercontent.com/shashankbice
+  role: Postdoctoral Scholar
+  organizations:
+    - name: University of Washington
+  bio: >
+    Shashank is joining the NASA Earth Sciences & UW hackweek as a helper. 
+    He has been associated with hackweeks in the past through multiple roles (e.g., participant, project/data science lead, helper).
+    Shashank finds the hackweek program a great platform to build community and have candid converstations on how we can support each other scientifically and emotionaly as we persue our science goals.
+    His research uses satellite remote sensing to study mountain cryosphere and hazards.
+    
+  expertise:
+    - Open source geospatial analysis
+    - Python
+    - Git
+    - Cryosphere
+    - LiDAR
+    - Photogrammetry
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/ShashankBice
+    - icon: twitter
+      link: https://x.com/RSGShashank
+    - icon: linkedin
+      link: https://www.linkedin.com/in/shashank-bhushan-565456ba/
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Helper
+   

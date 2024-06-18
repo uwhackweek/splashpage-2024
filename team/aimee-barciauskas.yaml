@@ -1,0 +1,22 @@
+- title: Aimee Barciauskas
+  avatar: https://avatars.githubusercontent.com/abarciauskas-bgse
+  role: Cloud Engineer
+  organizations:
+    - name: Development Seed
+  bio: >
+    Aimee is a cloud engineer at Development Seed. She works with large Earth data providers such as NASA to make data more accessible to more people. Aimee is also a member of the steering committee for the Pangeo project and chairs the Earth Systems Information Partners (ESIP) Cloud Computing Cluster and NOAA Data Archive and Access Requirements Working Group.
+  expertise:
+    - cloud computing
+    - data engineering
+    - python
+    - git/github
+  social:
+    - icon: github
+      link: https://github.com/abarciauskas-bgse
+    - icon: twitter
+      link: https://x.com/yayyyimee
+    - icon: linkedin
+      link: https://www.linkedin.com/in/abarciauskas/
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Tutorial Lead
