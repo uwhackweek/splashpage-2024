@@ -1,0 +1,22 @@
+- title: Aaron Friesz
+  avatar: https://avatars.githubusercontent.com/amfriesz
+  role: Science Coordination Lead
+  organizations:
+    - name: KBR Inc. (Contractor to USGS EROS)
+  bio: >
+    I am the Science Coordination Lead for NASA’s Land Processes Distributed Active Archive Center (LP DAAC) at the USGS Earth Resource Observation and Science (EROS) Center in Sioux Falls, SD. My background is in ecology, GIS, and remote sensing. At the LP DAAC I provide insights into user needs through user community engagement and outreach activities, and technical support for data archiving, data distribution, and service development. 
+  expertise:
+    - GIS
+    - Remote Sensing
+    - Python
+    - Jupyter
+    - Open Science
+  social:
+    - icon: github
+      link: https://github.com/amfriesz
+    - icon: twitter
+      link: https://x.com/afriesz
+    - icon: linkedin
+      link: https://www.linkedin.com/in/aaron-friesz-32a3751a6
+  user_groups:
+    - Project Lead
