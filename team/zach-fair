@@ -1,0 +1,22 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Zach Fair
+  avatar: https://avatars.githubusercontent.com/zachghiaccio
+  role: Postdoctoral Fellow
+  organizations:
+    - name: NASA GSFC
+  bio: >
+    I'm a postdoctoral fellow that focuses on using ICESat-2 data to retrieve snow depth over Alaska. I also aid in the development of the icepyx software package.
+  expertise:
+    - ICESat-2
+    - Snow
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/zachghiaccio
+    - icon: twitter
+      link: https://x.com/DrZacharyFair
+    - icon: linkedin
+      link: https://www.linkedin.com/in/dr-zach-fair
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Hackweek helper
