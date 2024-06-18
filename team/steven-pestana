@@ -1,0 +1,20 @@
+- title: Steven Pestana
+  avatar: https://avatars.githubusercontent.com/spestana
+  role: Research Scientist
+  organizations:
+    - name: University of Washington
+  bio: >
+    Steven Pestana is a research scientist in the Civil & Environmental Engineering department at UW. His research focuses on remote sensing and hydrologic modeling of snow-dominated mountain watersheds. He is excited to help project teams design hackweek projects in which all participants can expand their science domain knowledge, and develop technical & teamwork skills.
+  expertise:
+    - hackweek project organization
+    - gridded/raster data and remote sensing (xarray, python)
+    - git, jupyter notebooks, and jupyter books
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/spestana
+    - icon: linkedin
+      link: https://www.linkedin.com/in/spestana
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Project Consultant
