@@ -1,0 +1,21 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Jesslyn Di Fiori
+  avatar: https://avatars.githubusercontent.com/jkdifiori
+  role: Technical Writer
+  organizations:
+    - name: National Snow and Ice Data Center (NSIDC)
+  bio: >
+    A FEW SENTENCES ABOUT YOU, MULTIPLE LINES ARE FINE
+  expertise:
+    - SKILL 1
+    - SKILL 2
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/jkdifiori
+    - icon: linkedin
+      link: https://www.linkedin.com/in/jesslyn-di-fiori-starnes-0b665746/
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - ROLE 1
+    - ROLE 2
