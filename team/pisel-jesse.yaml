@@ -1,0 +1,21 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Jesse Pisel
+  avatar: https://avatars.githubusercontent.com/jessepisel
+  role: Director of Data Science Challenges
+  organizations:
+    - name: ThinkOnward
+  bio: >
+    I work with teams that create the AI systems that power the world around us. 
+    My current team uses computer vision and a larger data science community to solve challenges in the energy transition.
+  expertise:
+    - geospatial 
+    - visualization
+    - machine learning
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/jessepisel
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Helper
+
