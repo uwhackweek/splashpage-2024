@@ -1,0 +1,19 @@
+- title: Morgan Sanger
+  avatar: https://avatars.githubusercontent.com/u/121844474?v=4
+  role: PhD Student
+  organizations:
+    - name: University of Washington
+  bio: Morgan is a PhD student in geotechnical engineering at the University of Washington. She has a background in geology, geological engineering, and natural hazards. Her research  involves applying machine learning to large geospatial and geotechnical data sets for improved natural hazard modeling and engineering risk management. She is excited about open science and cloud computing.
+  expertise:
+    - GIS
+    - Python
+    - machine learning
+    - geotechnical engineering
+    - geologic hazards
+  social:
+    - icon: github
+      link: https://github.com/sangermd
+    - icon: linkedin
+      link: https://www.linkedin.com/in/morgan-sanger-970761b3/
+  user_groups:
+    - Project Lead
