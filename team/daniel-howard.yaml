@@ -1,0 +1,25 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Daniel Howard
+  avatar: https://avatars.githubusercontent.com/dphow
+  role: HPC Consultant
+  organizations:
+    - name: NSF National Center for Atmospheric Research
+  bio: >
+    Tyler is a research scientist within the Polar Science Center at the University of Washington Applied Physics Laboratory.
+    He is also a developer and scientist for the NASA SlideRule cloud-based data processing service.
+    Tyler uses airborne and satellite altimetry data to help analyze ice sheet and ice shelf change.
+    He usually writes code in Python and generally spends too much time on Slack.
+  expertise:
+    - High Performance Computing
+    - GPU Programming - OpenACC, OpenMP, and CUDA
+    - Performance Profiling and Optimization
+    - Remote Sensing workflows, ie Geopandas and Rasterio with Python
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/dphow
+    - icon: linkedin
+      link: https://www.linkedin.com/in/dphoward
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Helper
