@@ -5,10 +5,12 @@
   organizations:
     - name: NSF National Center for Atmospheric Research
   bio: >
-    Tyler is a research scientist within the Polar Science Center at the University of Washington Applied Physics Laboratory.
-    He is also a developer and scientist for the NASA SlideRule cloud-based data processing service.
-    Tyler uses airborne and satellite altimetry data to help analyze ice sheet and ice shelf change.
-    He usually writes code in Python and generally spends too much time on Slack.
+    Daniel is an HPC Consultant at National Science Foundation National Center for Atmospheric Research (NSF NCAR), within the 
+    Computational and Information Systems Lab (CISL). He primarily supports users on the Derecho and Casper supercomputing clusters
+    towards running large scale Earth system science applications. Daniel primarily contributes towards projects to facilitate 
+    their readiness and performance with GPU computing, supporting porting efforts and performance profiling. Daniel also has recently 
+    studied under Colorado University - Boulder's Earth Data Analytics program and regularly engages with NSF NCAR's Earth System Data Science 
+    (ESDS) initiative, coordinating and supporting various hackathon events for the scientific community.
   expertise:
     - High Performance Computing
     - GPU Programming - OpenACC, OpenMP, and CUDA
