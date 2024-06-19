@@ -1,24 +1,18 @@
-# Replace CAPITALIZED placeholders with your info
 - title: Kehan Yang
   avatar: https://avatars.githubusercontent.com/u/32207757?v=4
   role: Computational Geoscientist
   organizations:
     - name: M3 Works LLC
-  bio: >
-    Kehan is a computational geoscientist at M3 Works LLC, specilizing in operational snow modeling in the Western U.S.
-    She has a backaground in snow hydrology, remote sensing, and machine learning. 
-    She is passionate about investigating methods that intergate satellite data, physically-based models, and machine learning tools to 
-    enhance our understanding of mountain snowpack and water avaialbility.
-     
+  bio: Kehan is a computational geoscientist at M3 Works LLC, specilizing in operational snow modelings. 
+  She has a backaground in snow hydrology, remote sensing, and machine learning.
+  She is passionate about investigating methods that intergate satellite data, physically-based models, 
+  and machine learning tools to enhance our understanding of mountain snowpack and water availability.
   expertise:
-    - Python, R
-    - GIS
+    - Python
     - Remote Sensing
     - Snow Modeling 
     - Machine Learning
-
   social:
-    # Remove list item (- icon & link) if you don't have an account
     - icon: github
       link: https://github.com/KehanGit
   user_groups:
