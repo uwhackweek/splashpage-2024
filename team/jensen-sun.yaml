@@ -3,7 +3,8 @@
   role: Research Associate Professor
   organizations:
     - name: George Mason University
-  bio: I am a workflow guy and practitioner on using AI to address cool Earth scientific questions. 
+  bio: > 
+    I am a workflow guy and practitioner on using AI to address cool Earth scientific questions. 
   expertise:
     - geospatial 
     - workflow
