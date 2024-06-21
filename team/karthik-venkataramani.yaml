@@ -1,0 +1,19 @@
+- title: Karthik Venkataramani
+  avatar: https://avatars.githubusercontent.com/kvenkman
+  role: Postdoctoral Fellow
+  organizations:
+    - name: University of Washington
+  bio: >
+    My work focuses on developing machine learning models for use in geospatial applications.
+  expertise:
+    - Remote Sensing
+    - Machine Learning
+    - Geospatial Data analysis
+  social:
+    - icon: github
+      link: https://github.com/kvenkman
+    - icon: linkedin
+      link: https://www.linkedin.com/in/karthikvenkataramani/
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Helper
