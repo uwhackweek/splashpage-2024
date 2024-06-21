@@ -5,10 +5,14 @@
   organizations:
     - name: NASA GSFC / SSAI
   bio: >
-    A FEW SENTENCES ABOUT YOU, MULTIPLE LINES ARE FINE
+    I've been involved with SnowEx Field Campaigns and past Hackweeks since 2018. 
+    I work closely with the ground-based observations and manage much of the SnowEx data management to publish and archive our data at NSIDC. 
+    I host monthly SnowEx Community Calls to keep the snow community informed of recent data releases and other relevent updates.
+    I love being in the field taking snow measurements. 
   expertise:
     - SnowEx data products
     - Ground sampling design
+    - Data QA/QC
   social:
     # Remove list item (- icon & link) if you don't have an account
     - icon: github
@@ -16,7 +20,7 @@
     - icon: twitter
       link: https://x.com/megmasonSnoSci
     - icon: linkedin
-      link: https://www.linkedin.com/in/LINKEDIN_USERNAME
+      link: https://www.linkedin.com/in/megan-mason-7529151a0
   user_groups:
     # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
     - Tutorial Lead
