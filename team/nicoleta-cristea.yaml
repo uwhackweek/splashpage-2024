@@ -1,0 +1,23 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Research scientist
+  avatar: https://avatars.githubusercontent.com/NCristea
+  role: Reasearch Scientist
+  organizations:
+    - name: UW eScience Institute
+    - name: UW Department of Civil and Environmental Engineering
+  bio: >
+    Nicoleta  is a senior research hydrologist and data science fellow at the University of Washington.
+    At UW, she is interested in applying data science methods to study climate change effects on water resources, hydrologic modeling and remote sensing analyses.
+    Nicoleta is leading GeoSMART, an NSF-funded educational initiative to accelerate the adoption of machine learning in geosciences, designed to provide online resources and hands-on learning through community building and hackweek events.
+  expertise:
+    - remote sensing
+    - snow hydrology
+    - machine learning
+    - Python
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/NCristea
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Lead coordinator 
