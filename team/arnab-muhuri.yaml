@@ -1,0 +1,17 @@
+- title: Arnab Muhuri
+  avatar: https://avatars.githubusercontent.com/arnab-muhuri
+  role: Scientific Staff
+  organizations:
+    - name: Earth Observation and Modelling (EOM), University of Kiel, Germany.
+  bio: I have a Bachelors in Electrical Engineering and Master of Technology & PhD in Satellite Earth Observation.
+  expertise:
+    - Near-shore bathymetry observation using satellite based LIDAR (NASA's ICESat-2).
+    - Earth observation algorithm development for applications like crop monitoring, monoculture detection, grassland mowing detection, natural disaster impact assessment etc. using satellite synthetic aperture radar (SAR) like CSA's RADARSAT-2, RADARSAT Constellation Mission (RCM), and ESA's Sentinel-1.
+    - Development of machine learning based algorithms for Earth observation and terrestrial applications (like monitoring orchid population in high nature value grassland, tracking beach litter dynamics from time lapse cameras in Svalbard, Greenland, and Iceland for the ongoing EU funded ICEBERG project etc.).
+  social:
+    - icon: github
+      link: https://github.com/arnab-muhuri
+    - icon: linkedin
+      link: https://www.linkedin.com/in/drarnabmuhuri/
+  user_groups:
+    - Project Lead
