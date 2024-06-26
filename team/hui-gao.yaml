@@ -1,0 +1,19 @@
+- title: Hui Gao
+  avatar: https://avatars.githubusercontent.com/hui-97
+  role: PhD Student
+  organizations:
+    - name: University at Buffalo
+  bio: >
+    I am a PhD student working on reconstructing Greenland mass balance from airborne and satellite laser altimetry measurements of surface elevation change. 
+    I am in general interested in ice dynamics and ice-atmosphere-ocean interactions.
+  expertise:
+    - Python
+    - Remote sensing
+    - Geospatial data processing
+  social:
+    - icon: github
+      link: https://github.com/hui-97
+    - icon: linkedin
+      link: https://www.linkedin.com/in/hui-gao/
+  user_groups:
+    - Project Lead
