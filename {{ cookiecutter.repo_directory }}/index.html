@@ -452,6 +452,11 @@
                                             <h2 class="name mb-2">
                                                 {{person['title']}}
                                             </h2>
+                                            {%- if 'pronouns' in person %}
+                                            <div class="meta">
+                                                ({{ person['pronouns'] }})
+                                            </div>
+                                            {%- endif %}
                                             <div class="meta">
                                                 {{ person['role'] }}
                                             </div>

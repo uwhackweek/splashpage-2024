@@ -4,6 +4,7 @@
   role: YOUR JOB TITLE
   organizations:
     - name: YOUR EMPLOYER
+  pronouns: pronouns
   bio: >
     A FEW SENTENCES ABOUT YOU, MULTIPLE LINES ARE FINE
   expertise:
@@ -21,4 +22,3 @@
     # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
     - ROLE 1
     - ROLE 2
-
