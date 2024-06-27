@@ -1,0 +1,25 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Bareera Mirza
+  avatar: https://avatars.githubusercontent.com/mbareera
+  role: Hackweek Helper
+  organizations:
+    - name: Oregon State University
+  bio: >
+    Ph.D student working on a cloud-based data assimilation modeling system to advance snow characteristics mapping as a part of SnowEx campaign efforts. 
+  expertise:
+    - Remote Sensing
+    - Snow Hydrology
+    - Cloud Computing
+    - Python
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/mbareera
+    - icon: twitter
+      link: https://x.com/BareerahMirza
+    - icon: linkedin
+      link: https://www.linkedin.com/in/bareera-n-mirza-977aa3122/
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Tutorial Helper
+
