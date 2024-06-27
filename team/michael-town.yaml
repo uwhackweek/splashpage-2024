@@ -1,9 +1,10 @@
 # Replace CAPITALIZED placeholders with your info
-- title: Michael (Mike) Town (he/him)
+- title: Michael (Mike) Town
   avatar: https://avatars.githubusercontent.com/u/80553650?v=4
   role: Research Scientist
   organizations:
     - name: Earth and Space Research
+  pronouns: he/him
   bio: >
     I am an innovative research scientist, educator, and instructional coach with professional experience in machine learning and data analysis, computational modeling, remote field work, and secondary and university-level curriculum development. Equity and social justice are at the center of both my research and education efforts.
   expertise:
