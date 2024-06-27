@@ -1,0 +1,19 @@
+- title: Jensen Ziheng Sun
+  avatar: https://science.gmu.edu/sites/default/files/styles/medium_square/public/2019-10/zihengsun_headshot%20-%20Ziheng%20Sun.jpg
+  role: Research Associate Professor
+  organizations:
+    - name: George Mason University
+  bio: >
+    I am a workflow guy and practitioner on using AI to address cool Earth scientific questions. 
+  expertise:
+    - geospatial 
+    - workflow
+    - machine learning
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/ZihengSun
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Tutorial Lead
+    - Project Team Lead

@@ -1,0 +1,20 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Eric Gagliano
+  avatar: https://avatars.githubusercontent.com/egagli
+  role: Graduate student
+  organizations:
+    - name: University of Washington
+  bio: >
+    Eric is a 5th year phd student in Civil and Environmental Engineering at the University of Washington, where he leverages radar remote sensing to better understand snowmelt timing. He loves hackweeks and is excited to make friends and build community!
+  expertise:
+    - Geospatial python
+    - Radar remote sensing
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/egagli
+    - icon: twitter
+      link: https://x.com/EricGagliano
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Project lead

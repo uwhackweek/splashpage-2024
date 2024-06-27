@@ -1,0 +1,23 @@
+- title: Wei Ji Leong
+  avatar: https://avatars.githubusercontent.com/weiji14
+  role: Machine Learning Engineer
+  organizations:
+    - name: Development Seed
+  bio: >
+      Wei Ji is a Geospatial Data Scientist working on improving cloud-native and GPU-native geospatial tools.
+      Previously, he has used ICESat-2 ATL11 to map active subglacial lakes over the Antarctic ice sheet to see how they drain and fill over time.
+      As an open source contributor, he helps to maintain the CryoCloud hub environment and various conda-forge packages, making reproducibility of processing workflows a top priority.
+  expertise:
+    - remote sensing
+    - machine learning
+    - subglacial hydrology
+    - open science
+    - Python
+    - ICESat-2 ATL11 data product
+  social:
+    - icon: github
+      link: https://github.com/weiji14
+    - icon: linkedin
+      link: https://www.linkedin.com/in/wjleong14
+  user_groups:
+    - Tutorial developer

@@ -1,0 +1,17 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Michael Studinger
+  avatar: https://avatars.githubusercontent.com/mstudinger
+  role: Research Scientist
+  organizations:
+    - name: NASA Goddard Space Flight Center
+  bio: >
+    Michael Studinger studies the polar ice sheets in Greenland and Antartctica using airborne geophysical and other remotely sensed data. 
+  expertise:
+    - geophysical data analysis and interpretation
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/mstudinger
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - helper
