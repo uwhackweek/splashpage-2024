@@ -1,0 +1,24 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Max Stevens
+  avatar: https://avatars.githubusercontent.com/maximusjstevens
+  role: Assistant Research Scientist
+  organizations:
+    - name: University of Maryland ESSIC
+    - name: NASA Goddard Space Flight Center
+  pronouns: he/him
+  bio: >
+    Max is a research scientist in the Cryospheric Science Laboratory at NASA Goddard. He uses numerical models and satellite data to understand surface processes on ice sheets and glaciers. He leads development of the Community Firn Model. 
+  expertise:
+    - Python
+    - Open-source software development
+    - Numerical Modeling
+    - Geospatial analysis
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/maximusjstevens
+    - icon: linkedin
+      link: https://www.linkedin.com/in/christopher-max-stevens-03a5a357
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Project Lead
