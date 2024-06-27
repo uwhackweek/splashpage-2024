@@ -7,7 +7,7 @@
   bio: >
     Jesslyn is a Technical Writer at the National Snow and Ice Data Center, where she writes and maintains scientific documentation, metadata, and web content for cryospheric data. She works primarily with NASA SnowEx, MODIS, and VIIRS data sets. 
   expertise:     
-- Scientific Communication
+    - Scientific Communication
     - Data Visualization
     - Data Management
   social:
