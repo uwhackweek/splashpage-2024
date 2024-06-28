@@ -1,0 +1,26 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Elodie Macorps
+  avatar: https://avatars.githubusercontent.com/emacorps
+  role: Assistant Research Scientist
+  organizations:
+    - name: University of Maryland ESSIC / NASA GSFC 618
+  pronouns: She/Her
+  bio: >
+    Dr. Elodie Macorps is an Assistant Research Scientist with the Earth System Science Interdisciplinary Center (ESSIC) at the University of Maryland, working at NASA Goddard Space Flight Center. 
+    Her research projects are focused on leveraging multi-sensor capabilities (Synthetic Aperture Radar (SAR), optical and thermal satellites) to improve the detection of disasters’ impacted areas and the tracking of land deformation and topographic changes. 
+    Elodie’s research goals are geared towards the integration of earth observations into machine learning tools and data pipelines to be utilized by public and private organizations’ decision-making and services. 
+  expertise:
+    - SAR Interferometry
+    - Microwave Radiometry
+    - SWESARR
+    - SAR Time-Series Analysis
+    - Topographic Measurements and DEMs
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/emacorps
+    - icon: linkedin
+      link: https://www.linkedin.com/in/elodiemacorps
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Tutorial Developer
