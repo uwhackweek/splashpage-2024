@@ -1,0 +1,25 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Dylan Boyd
+  avatar: https://avatars.githubusercontent.com/drboyd
+  role: Postdoctoral Research Associate
+  organizations:
+    - name: University of Maryland ESSIC / NASA GSFC 618
+  pronouns: he / him
+  bio: >
+    Dylan Boyd is postdoctoral research associate located at the University of Maryland's Earth System Science Interdisciplinary Center in College Park, Maryland. He graduated in 2023 from Mississippi State University with a degree in Electrical and Computer Engineering. He is currently researching the interplay between forests and snow using SnowEx's SWESARR system. 
+  expertise:
+    - SWESARR
+    - Forward and Inverse Microwave Remote Sensing
+    - Applied Electromagnetics
+    - Python & MATLAB
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/drboyd
+    - icon: twitter
+      link: https://twitter.com/dylanrayboyd
+    - icon: linkedin
+      link: https://www.linkedin.com/in/dylan-ray-boyd-bb4140102/
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Tutorial Developer
