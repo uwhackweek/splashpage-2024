@@ -1,0 +1,23 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Anna Valentine
+  avatar: https://avatars.githubusercontent.com/annavalentine
+  role: Project Lead
+  organizations:
+    - name: Dartmouth College
+    - name: Cold Regions Research and Engineering Lab (CRREL)  
+  bio: >
+    Anna is a researcher at CRREL in the physical sciences branch with Zoe Courville, and working towards a PhD in engineering at Dartmouth college. 
+    Research interests include snow mechanics, compaction and microstructure. With a background in geophysics, she is excited by many of the 
+    datasets SnowEx has to offer and loves to hang out in the snow when not hanging out in VScode. 
+  expertise:
+    - Python
+    - Geophysical data proccessing
+    - Mechanical behaviour of materials / fluid mechanics
+    - Digging Snowpits 
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/annavalentine
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Project Lead
